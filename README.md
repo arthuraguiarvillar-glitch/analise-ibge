@@ -68,7 +68,7 @@ Análise exploratória de dados socioeconômicos da população brasileira, com 
 
 ## ️ Ferramentas Utilizadas
 
-- **Python 3**
+- **Python**
 - **Pandas** — manipulação e análise de dados
 - **Seaborn** — visualizações estatísticas
 - **Matplotlib** — gráficos e customizações
